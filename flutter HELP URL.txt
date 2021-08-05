@@ -1,0 +1,66 @@
+block pakage- https://bloclibrary.dev/#/
+
+block basic flow - https://www.didierboelens.com/2018/08/reactive-programming-streams-bloc/
+
+all  widget demo - https://github.com/TakeoffAndroid/flutter-examples
+
+best ui demo- https://github.com/Chromicle/awesome-flutter-ui
+
+flutter-examples ui - https://github.com/topics/flutter-examples
+
+flutter basic ui - https://flutter.github.io/samples/#
+
+15 Amazing Flutter Open Source Projects -  https://www.dunebook.com/amazing-flutter-open-source-projects/
+
+Top 11 Flutter Open Source Apps -  https://www.cleveroad.com/blog/open-source-flutter-apps
+
+medium flutter devs -  https://medium.com/flutterdevs
+
+ecomarrs and other app small demo prectice for best - https://fluttertutorial.in/category/flutter/
+
+free help doc google ads , firebase, bloc project - https://www.freecodecamp.org/news/tag/flutter/
+
+login with firebase with google sign in - https://blog.codemagic.io/firebase-authentication-google-sign-in-using-flutter/
+
+                                        https://stackoverflow.com/questions/57531535/flutter-can-google-sign-in-be-used-without-firebase
+
+
+
+Flutter Awesome - https://flutterawesome.com/
+
+Widget catalog - Flutter - https://flutter.dev/docs/development/ui/widgets
+
+Experiments with Flutter Web -  https://github.com/AseemWangoo/experiments_with_web
+
+Flutter Tutorial - Woolha =  https://www.woolha.com/tutorials/categories/flutter/
+
+flutter getx Code Example -  https://www.youtube.com/watch?v=5ARwxw6-GwQ&t=1s
+
+|| Flutter GetX Tutorial || Understanding Flutter GetX Binding-  https://www.youtube.com/watch?v=lrg9QNZMsmw&t=2s
+
+https://www.youtube.com/watch?v=lrg9QNZMsmw&t=2s
+
+
+GetX - Make Flutter easy (Part 1)-  https://viblo.asia/p/getx-make-flutter-easy-part-1-eW65G1wJZDO
+
+      - https://viblo.asia/p/getx-make-flutter-easy-part-1-eW65G1wJZDO
+
+
+Drawing shapes in Flutter with CustomPaint and Shape Maker - LogRocket Blog - https://blog.logrocket.com/drawing-shapes-in-flutter-with-custompaint-and-shape-maker/
+
+
+Material Components · GitHub   -  https://github.com/material-components
+
+
+Dart Null Safety: The Ultimate Guide to Non-Nullable Types - https://www.youtube.com/watch?v=aZtjcbsdwTo
+
+3D project -   https://flutterappworld.com/3d-zoo-app-ui-made-with-flutter/
+
+animation curves-  https://api.flutter.dev/flutter/animation/Curves-class.html
+
+firebase alternet database supabase - https://supabase.io/
+
+
+
+
+

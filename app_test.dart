@@ -39,6 +39,8 @@ void main() {
       expect(await driver.getText(counterTextFinder), "0");
     });
 
+    //here retry run two time if this test fail
+//     here skip is print string and does not test if value is ture/String 
     test('starts at 1', () async {
       expect(await driver.getText(counterTextFinder), "0");
     }, skip: 'test skip demo', tags: 'TAG1');

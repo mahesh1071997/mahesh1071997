@@ -49,6 +49,10 @@ GetX - Make Flutter easy (Part 1)-  https://viblo.asia/p/getx-make-flutter-easy-
 Drawing shapes in Flutter with CustomPaint and Shape Maker - LogRocket Blog - https://blog.logrocket.com/drawing-shapes-in-flutter-with-custompaint-and-shape-maker/
 
 
+
+pdf invoice demo : https://www.youtube.com/watch?v=z_5xkhEkc5Y
+
+
 Material Components · GitHub   -  https://github.com/material-components
 
 

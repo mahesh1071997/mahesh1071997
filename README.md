@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m here upload code of  google signin file call function
 - same useful file demo code here
+- login and regiter velidation code with solution
 
 
 

@@ -1,19 +1,19 @@
 void main() async {
-  
-  print(" ${fibo(10)}");
-  
+  print(" ${fibonacci(50)}");
 }
-// optimal memory used 
-int fibo(int n, [Map<int, int>? memo]) {
-  if (n < 2) {
-    return n;
-  } else {
-    memo ??= {};
-    memo[n] = (fibo(n - 1, memo) + fibo(n - 2, memo));
+
+int fibonacci(int n, [Map<int, int>? memo]) {
+  memo ??= {};
+  if (memo.containsKey(n)) {
     return memo[n] ?? 0;
   }
+  if (n < 2) {
+    return n;
+  }
+  memo[n] = (fibonacci(n - 1, memo) + fibonacci(n - 2, memo));
+  return memo[n] ?? 0;
 }
-// normal code
+
 int fibonacci1(int n) {
   if (n < 2) {
     return n;

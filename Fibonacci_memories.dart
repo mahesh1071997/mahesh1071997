@@ -1,16 +1,23 @@
 void main() async {
-  var colors = <int, int>{};
-
-  print(" ${fibonacci(4,colors)}");
-  print(" ${fibonacci1(4)}");
-
+  
+  print(" ${fibo(10)}");
+  
 }
-
-int fibonacci(int n, [Map<int, int>? memo]) {
+// optimal memory used 
+int fibo(int n, [Map<int, int>? memo]) {
   if (n < 2) {
     return n;
   } else {
-    memo![n] = (fibonacci(n - 1, memo) + fibonacci(n - 2, memo));
+    memo ??= {};
+    memo[n] = (fibo(n - 1, memo) + fibo(n - 2, memo));
     return memo[n] ?? 0;
+  }
+}
+// normal code
+int fibonacci1(int n) {
+  if (n < 2) {
+    return n;
+  } else {
+    return (fibonacci1(n - 1) + fibonacci1(n - 2));
   }
 }

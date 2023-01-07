@@ -48,8 +48,6 @@ GetX - Make Flutter easy (Part 1)-  https://viblo.asia/p/getx-make-flutter-easy-
 
 Drawing shapes in Flutter with CustomPaint and Shape Maker - LogRocket Blog - https://blog.logrocket.com/drawing-shapes-in-flutter-with-custompaint-and-shape-maker/
 
-
-
 pdf invoice demo : https://www.youtube.com/watch?v=z_5xkhEkc5Y
 
 
@@ -66,5 +64,39 @@ firebase alternet database supabase - https://supabase.io/
 
 best paid template => https://instaflutter.com/app-templates/flutter-ecommerce-app-template/
 
+Complete e-commerce app
+https://youtu.be/7dAt-JMSCVQ
 
+Firebase chatting app
+https://youtu.be/nU0IKgv2zWQ
+
+Complete app for beginners
+https://youtu.be/71AsYo2q_0Y
+
+Firebase complete study app
+https://youtu.be/ZSVnIphlGKI
+
+Complete Gym App
+https://youtu.be/1ENQHfNB9gM
+
+Traveling App
+https://youtu.be/x4DydJKVvQk
+
+Learn to build an android and iOS app
+https://youtu.be/svQOxQde0bg
+
+Learn to build a video player app
+https://youtu.be/OXQ5ee6p9ZA
+
+Subscribe to my other youtube channel about making money on youtube
+https://www.youtube.com/channel/UCJZJ...
+
+Learn to build a website step by step
+https://youtu.be/-nRB83GM-8g
+
+Learn to build an ebook app
+https://youtu.be/kTrbcb21ENU
+
+Build an audio app step by step
+https://youtu.be/CF3Q7YfvH7Q
 

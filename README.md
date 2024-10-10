@@ -65,7 +65,6 @@ I believe in the power of open source and enjoy contributing to the community. S
 ## 🔗 Connect with Me
 
 - LinkedIn: [https://www.linkedin.com/in/maheshdabhi/](https://www.linkedin.com/in/maheshdabhi/)
-- 
 - Twitter: [https://x.com/dabhi_r107](https://x.com/dabhi_r107)
 - Portfolio: [projects](https://gatistavam.com)
 - Youtube : [mahesh dabhi](https://www.youtube.com/@maheshdabhi6093)

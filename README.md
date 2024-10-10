@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mahesh1071997?label=Follow&style=social)](https://github.com/mahesh1071997)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maheshdabhi/)
 
+
 I am a **Flutter developer** with over 5 years of experience in building high-performance mobile applications for Android and iOS. My passion lies in crafting clean, user-friendly, and efficient apps, leveraging the latest tools and technologies.
 
 ---
@@ -54,6 +55,7 @@ I believe in the power of open source and enjoy contributing to the community. S
 
 ## 📚 Recent Blog Posts
 
+- [Dart and flutter tutorials : my intagram page](https://www.instagram.com/flutter_language_programmings/)
 - [Mastering GetX State Management in Flutter](https://www.linkedin.com/posts/maheshdabhi_activity-7247153375719415808-GOe9?utm_source=share&utm_medium=member_desktop)
 - [Boost Your Flutter App Performance with These 5 Tips](https://www.linkedin.com/posts/maheshdabhi_flutter-dart-appdevelopment-activity-7242838672818003968-0yAe?utm_source=share&utm_medium=member_desktop)
 - [Exploring Async and Await in Dart](https://www.linkedin.com/posts/maheshdabhi_activity-7240636512659226626-pygi?utm_source=share&utm_medium=member_desktop)
@@ -62,10 +64,11 @@ I believe in the power of open source and enjoy contributing to the community. S
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/maheshdabhi/)
-- Twitter: [twitter.com/your-twitter-handle](https://x.com/dabhi_r107)
-- Portfolio: [your-portfolio-site.com](https://gatistavam.com)
-
+- LinkedIn: [https://www.linkedin.com/in/maheshdabhi/](https://www.linkedin.com/in/maheshdabhi/)
+- 
+- Twitter: [https://x.com/dabhi_r107](https://x.com/dabhi_r107)
+- Portfolio: [projects](https://gatistavam.com)
+- Youtube : [mahesh dabhi](https://www.youtube.com/@maheshdabhi6093)
 ---
 
 ## 📈 GitHub Stats
